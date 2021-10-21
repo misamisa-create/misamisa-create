@@ -2,14 +2,19 @@
 
 松山実紗と申します。
 DMMWEBCAMP7月生です。
+動画をみたり、何かを作ったり、カフェに行くのが好きです💐
 
 #### aboutme
 
 デザイン・イラストが得意です。 
 デザインはIllustrator・Photoshop・inDesign、 
-イラストは基本procreateを使い制作しています。 
+イラストは基本procreateを使い制作しています🖋
+主にInstagramで投稿を行なっているので、何かあればDMください🐶
 
 プログラミング言語は主にRuby、 フレームワークは、Ruby on Railsを使用しています。
+日々知識のインプットを行い、成長していきたいです👩‍💻
+
+ポートフォリオ類はピン留めしております！📌
 
 [![misamisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=misamisa-create&theme=vue-dark&show_icons=true)](https://github.com/misamisa-create/github-readme-stats)
 
