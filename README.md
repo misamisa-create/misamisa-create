@@ -14,7 +14,14 @@ DMMWEBCAMP7月生です。
 プログラミング言語は主にRuby、 フレームワークは、Ruby on Railsを使用しています。
 日々知識のインプットを行い、成長していきたいです👩‍💻
 
-ポートフォリオ類はピン留めしております！📌
+ポートフォリオ類(ピン留めしております！📌)
+個人開発ポートフォリオ
+https://github.com/misamisa-create/DRAWours.git
+自己紹介用ポートフォリオ
+https://github.com/misamisa-create/introduction-cloud9.git
+チーム開発ポートフォリオ
+https://github.com/misamisa-create/nagano_cake.git
+
 
 [![misamisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=misamisa-create&theme=vue-dark&show_icons=true)](https://github.com/misamisa-create/github-readme-stats)
 
