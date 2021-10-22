@@ -20,12 +20,12 @@ https://github.com/misamisa-create/DRAWours.git
 
 自己紹介用ポートフォリオ  
 https://github.com/misamisa-create/introduction-cloud9.git  
-![introduction](https://user-images.githubusercontent.com/83994010/138391944-8d2ff0f0-514f-438e-85c1-5335f6d9efd2.jpeg)
+<img src="https://user-images.githubusercontent.com/83994010/138391944-8d2ff0f0-514f-438e-85c1-5335f6d9efd2.jpeg" width="500">
 
 
 チーム開発ポートフォリオ  
 https://github.com/misamisa-create/nagano_cake.git  
-![nagano_cake](https://user-images.githubusercontent.com/83994010/138391987-68fb41b6-dd95-4105-8cbe-b647c388a3b7.jpeg)
+<img src="https://user-images.githubusercontent.com/83994010/138391987-68fb41b6-dd95-4105-8cbe-b647c388a3b7.jpeg" width="500">
 
 
 [![misamisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=misamisa-create&theme=vue-dark&show_icons=true)](https://github.com/misamisa-create/github-readme-stats)
