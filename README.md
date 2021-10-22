@@ -17,7 +17,7 @@ DMMWEBCAMP7月生です。
 
 ### 個人開発ポートフォリオ  
 サイトへ
-http://drawours.com
+http://drawours.com  
 githubへ
 https://github.com/misamisa-create/DRAWours.git  
 <img src="https://user-images.githubusercontent.com/83994010/138391927-230d8d4e-5b4e-4119-bc97-f0bd5e0597f0.jpeg" width="300">
