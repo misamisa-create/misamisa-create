@@ -1,11 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 松山実紗と申します。  
 和歌山県出身の24歳です。  
 DMMWEBCAMP7月生です。  
 動画をみたり、何かを作ったり、カフェに行くのが好きです💐  
 
-#### about me
+### about me
 
 デザイン・イラストが得意です。  
 デザインはIllustrator・Photoshop・inDesign、 
