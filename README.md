@@ -8,7 +8,7 @@ DMMWEBCAMP7月生です。
 ### about me
 
 デザイン・イラストが得意です。  
-デザインはIllustrator・Photoshop・inDesign、 
+デザインはIllustrator/Photoshop/inDesign、 
 イラストは基本procreateを使い制作しています🖋  
 主にInstagramで投稿を行なっているので、何かあればDMください🐶  
 
